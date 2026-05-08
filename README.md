@@ -36,7 +36,7 @@ Ferramenta profissional desenvolvida em Python para rastreamento de redirecionam
 Clone o repositório:
 
 ```bash
-git clone https://github.com/SEUUSUARIO/RedirectHunter.git
+git clone https://github.com/gabrielmarcolinooo/RedirectHunter.git
 ```
 
 Entre na pasta do projeto:
@@ -49,6 +49,12 @@ Instale as dependências:
 
 ```bash
 pip install -r requirements.txt
+```
+
+Instale o Chromium do Playwright:
+
+```bash
+playwright install chromium
 ```
 
 ---
