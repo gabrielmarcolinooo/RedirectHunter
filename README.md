@@ -116,7 +116,6 @@ RedirectHunter/
 ├── requirements.txt
 ├── README.md
 ├── .gitignore
-└── screenshots/
 ```
 
 ---
